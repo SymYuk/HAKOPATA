@@ -1,14 +1,14 @@
-####Gantt.xlsx  
+###Gantt.xlsx  
 ガントチャートです  
 
 
-####PataDesign.docx  
+###PataDesign.docx  
 デザイン指示書
 
 
-####PataProgram.docx  
+###PataProgram.docx  
 プログラム指示書
 
 
-####Sounds  
+###Sounds  
 サウンドいろいろ(詳細は中身を見てください)
