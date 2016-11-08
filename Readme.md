@@ -1,4 +1,4 @@
-Gantt.xlsx
+Gantt.xlsx  
   ガントチャートです  
 PataDesign.docx
   デザイン指示書
