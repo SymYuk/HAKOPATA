@@ -1,5 +1,5 @@
 Gantt.xlsx  
-  ガントチャートです  
+ガントチャートです  
 PataDesign.docx
   デザイン指示書
 PataProgram.docx
