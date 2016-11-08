@@ -1,11 +1,11 @@
-Gantt.xlsx\n
-	ガントチャートです
+Gantt.xlsx
+  ガントチャートです
 	
 PataDesign.docx
-	デザイン指示書
+  デザイン指示書
 	
 PataProgram.docx
-	プログラム指示書
+  プログラム指示書
 	
 Sounds
-	サウンドいろいろ
+  サウンドいろいろ
