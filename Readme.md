@@ -1,4 +1,4 @@
-Gantt.xlsx
+Gantt.xlsx\n
 	ガントチャートです
 	
 PataDesign.docx
