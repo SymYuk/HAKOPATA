@@ -1,6 +1,6 @@
 ###Sounds
 サウンドいろいろ(詳細は中身を見てください)
-###Gantt.xlsx
+##Gantt.xlsx
 ガントチャートです
 ###PataDesign.docx
 デザイン指示書
