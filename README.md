@@ -1,10 +1,10 @@
-###Sound
+###sound
 サウンドいろいろ(詳細は中身を見てください)
-###Gantt.xlsx
+###gantt.xlsx
 ガントチャートです
-###PataDesign.docx
+###pataDesign.docx
 デザイン指示書
-###PataProgram.docx
+###pataProgram.docx
 プログラム指示書
 ###goal_alfa.wmv
 ゴール時の仮アニメーション
