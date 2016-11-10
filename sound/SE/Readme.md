@@ -3,7 +3,7 @@
 キャンセル : cancel.wav ←αでは使わない気がする  
 展開図選択(LRのやつ) : changeLR.wav  
 展開方向選択&図反転(十字ボタンのやつ) :  
-展開・収納(1pata毎に鳴らす) : pata.wav  ←要検討 多分相当うるさい
+展開・収納(1pata毎に鳴らす) : pata.wav  ←要検討 多分相当うるさい  
 チェックポイント : checkPoint.wav  
 カチッ（はめた時&スイッチ） : switch.wav  
 謎が解けたような音 : solve.wav  
