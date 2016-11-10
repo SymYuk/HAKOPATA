@@ -6,3 +6,5 @@
 デザイン指示書
 ###PataProgram.docx
 プログラム指示書
+###goal_alfa.wmv
+ゴール時の仮アニメーション
