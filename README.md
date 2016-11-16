@@ -1,5 +1,7 @@
 ###sound
 サウンドいろいろ(詳細は中身を見てください)
+###stage
+ステージがずらり
 ###gantt.xlsx
 ガントチャートです
 ###pataDesign.docx
