@@ -1,10 +1,12 @@
-###sound
+####image
+テクスチャが落ちてます
+####sound
 サウンドいろいろ(詳細は中身を見てください)
-###stage
+####stage
 ステージがずらり
-###gantt.xlsx
+####gantt.xlsx
 ガントチャートです
-###pataDesign.docx
+####pataDesign.docx
 デザイン指示書
-###pataProgram.docx
+####pataProgram.docx
 プログラム指示書
