@@ -10,3 +10,5 @@
 デザイン指示書
 ####pataProgram.docx
 プログラム指示書
+####stageSpec.docx
+各ステージの解説書です。攻略本とも言う
