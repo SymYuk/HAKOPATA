@@ -10,4 +10,4 @@
 詳細は「ステージ解説書」を参照してください  
 （2016/11/16 18:32現在は まだ無いです）
 
-テクスチャはこっちよ https://github.com/SymYuk/HAKOPATA/tree/Develop/images
+テクスチャはこっちよ https://github.com/SymYuk/HAKOPATA/tree/Develop/image
