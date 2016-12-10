@@ -1,4 +1,4 @@
-###α版のデモステージはstage05あたりになる（少し改造するかも）予定です
+###α版のデモステージは分解されました
 
 ###「wada_practice.fbx」は名前の通りだぞ
 
@@ -8,6 +8,5 @@
 ---
 
 詳細は「ステージ解説書」を参照してください  
-（2016/11/16 18:32現在は まだ無いです）
 
-テクスチャはこっちよ https://github.com/SymYuk/HAKOPATA/tree/Develop/image
+テクスチャはこっち https://github.com/SymYuk/HAKOPATA/tree/Develop/image
